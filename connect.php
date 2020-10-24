@@ -2,7 +2,7 @@
 
 $dsn = 'mysql:dbname=test_session;host=localhost';
 $user = 'root';
-$password = 'root';
+$password = '';
 
 
 try {
