@@ -31,6 +31,11 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+              <div class="col">
+                      <a href="login.php" class="btn btn-success">Se connecter</a>
+              </div>
+        </div>
     </div>
       
     <!-- Optional JavaScript -->
